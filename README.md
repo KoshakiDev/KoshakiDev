@@ -8,10 +8,10 @@
 
 # Socials
 
-📢 [Telegram Blog Channel](t.me/KoshakiDevTelegram)
+📢 [Telegram Blog Channel](http://t.me/KoshakiDevTelegram)
 
-🐦 [Twitter](twitter.com/KoshakiDev)
+🐦 [Twitter](http://twitter.com/KoshakiDev)
 
-👾 [My Games](koshakidev.itch.io)
+👾 [My Games](http://koshakidev.itch.io)
 
-🐙 [Github](github.com/KoshakiDev)
+🐙 [Github](http://github.com/KoshakiDev)
