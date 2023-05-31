@@ -1,4 +1,4 @@
-I am Zhangir (can be prounounced as "John Gear")
+# Zhangir ("John Gear")
 
 👤 @KoshakiDev
 
@@ -6,22 +6,12 @@ I am Zhangir (can be prounounced as "John Gear")
 
 📍 Breda, Netherlands
 
+# Socials
 
-Join my Telegram blog channel. I share notes and ideas on what I learned:
+📢 [Telegram Blog Channel](t.me/KoshakiDevTelegram)
 
-📢 t.me/KoshakiDevTelegram
+🐦 [Twitter](twitter.com/KoshakiDev)
 
+👾 [My Games](koshakidev.itch.io)
 
-Follow me on Twitter for fun gameplay GIFs: 
-
-🐦 twitter.com/KoshakiDev
-
-
-Play my games on Itch.io:
-
-👾 koshakidev.itch.io
-
-
-My Github repository:
-
-🐙 github.com/KoshakiDev
+🐙 [Github](github.com/KoshakiDev)
