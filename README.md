@@ -8,7 +8,7 @@ I make games. I make things work.
 
 📍 Breda, Netherlands
 
-📚 Breda University of Applied Sciences
+📚 BSc Creative Media and Game Technologies from Breda University of Applied Sciences
 
 # Current Projects
 
