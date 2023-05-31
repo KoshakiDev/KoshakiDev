@@ -1,4 +1,6 @@
-# Zhangir ("John Gear")
+# Zhangir "John Gear" Nurmukhambetov
+
+I make games. I make things work. 
 
 👤 @KoshakiDev
 
@@ -15,3 +17,4 @@
 👾 [My Games](http://koshakidev.itch.io)
 
 🐙 [Github](http://github.com/KoshakiDev)
+
