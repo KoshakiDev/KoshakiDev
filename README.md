@@ -13,6 +13,19 @@ I make games. I make things work.
 # Current Projects
 
 - [Felony Felines remake in Unity](https://github.com/KoshakiDev/FelonyFelinesUnity)
+  - Features:
+    - 
+  - My Role and Contribution:
+    - Added a procedural animator for 2D skeleton character, easing the process of animation from ~1 week for 1 character set of 5 animations to ~10 minutes for 1 character set of 5 animations.
+  - Project Goals:
+    - Analyze and understand best practices and systems in Unity from more experienced developers provided by More Mountains
+    - Simulate adapting and working with someone else's code
+    - Recreate an existing game
+  - Technologies used:
+    - Unity
+    - Top Down Engine framework by More Mountains
+
+
 
 
 
