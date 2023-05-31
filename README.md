@@ -14,7 +14,7 @@ I make games. I make things work.
 
 - [Felony Felines remake in Unity](https://github.com/KoshakiDev/FelonyFelinesUnity)
   - Features:
-    - 
+    - Procedural 2D skeletal character animation
   - My Role and Contribution:
     - Added a procedural animator for 2D skeleton character, easing the process of animation from ~1 week for 1 character set of 5 animations to ~10 minutes for 1 character set of 5 animations.
   - Project Goals:
