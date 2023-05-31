@@ -12,7 +12,7 @@ I make games. I make things work.
 
 # Current Projects
 
-- [Felony Felines remake in Unity](https://github.com/KoshakiDev/FelonyFelinesUnity)
+- [Felony Felines remake in Unity](https://github.com/KoshakiDev/FelonyFelinesUnity) is a remake of a top-down arcade shooter of an [older project](https://koshakidev.itch.io/felonyfelines)
   - Features:
     - Procedural 2D skeletal character animation
   - My Role and Contribution:
