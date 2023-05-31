@@ -1,9 +1,15 @@
 👤 @KoshakiDev
+
 💻 Unity C# Developer, Game Engine Programmer
+
 📍 Breda, Netherlands
+
 🐦 twitter.com/KoshakiDev
+
 👾 koshakidev.itch.io
+
 🐙 github.com/KoshakiDev
+
 📢 t.me/KoshakiDevTelegram
 
 - 👋 Hi, I’m Zhangir Nurmukhambetov, also known as @KoshakiDev
