@@ -1,3 +1,5 @@
+I am Zhangir (can be prounounced as "John Gear")
+
 👤 @KoshakiDev
 
 💻 Unity C# Developer, Game Engine Programmer
