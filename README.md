@@ -10,6 +10,8 @@ I make games. I make things work.
 
 📚 BSc Creative Media and Game Technologies from [Breda University of Applied Sciences](https://www.buas.nl/opleidingen/bachelor-creative-media-and-game-technologies)
 
+🌳 [Social Link Tree](https://linktr.ee/koshakidev)
+
 # Current Projects
 
 - [Felony Felines remake in Unity](https://github.com/KoshakiDev/FelonyFelinesUnity) is a remake of a top-down arcade shooter of an [older project](https://koshakidev.itch.io/felonyfelines)
@@ -24,13 +26,3 @@ I make games. I make things work.
   - Technologies used:
     - Unity
     - Top Down Engine framework by More Mountains
-
-
-
-
-
-# Socials
-
-📢 [Telegram Blog Channel](http://t.me/KoshakiDevTelegram)
-
-🌳 [Link Tree](https://linktr.ee/koshakidev)
