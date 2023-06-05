@@ -10,7 +10,7 @@ I make games. I make things work.
 
 📚 BSc Creative Media and Game Technologies from [Breda University of Applied Sciences](https://www.buas.nl/opleidingen/bachelor-creative-media-and-game-technologies)
 
-🌳 [Social Link Tree](https://linktr.ee/koshakidev)
+🌳 [See My Social Links Tree](https://linktr.ee/koshakidev)
 
 # Current Projects
 
